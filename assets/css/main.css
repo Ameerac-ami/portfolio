@@ -3634,12 +3634,22 @@ body.is-menu-visible #menu .inner {
 	opacity: 1;
 	font-family: Raleway, Helvetica, sans-serif;
 	display: flex;
-
+	padding: 0;
 	flex-direction: column;
 	list-style: none;
+	margin-bottom: 0;
+}
+#two ul li {
+	padding: 0;
 }
 #two ul li p {
 	margin-bottom: 1em;
+}
+.wrapper.spotlight .content .tech-icons {
+	display: flex;
+	justify-content: flex-start;
+	gap: 10px;
+	margin-bottom: 2em;
 }
 @media screen and (max-width: 1280px) {
 	#banner {
