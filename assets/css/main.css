@@ -3475,8 +3475,8 @@ body.is-menu-visible #menu .inner {
 #banner .inner .image {
 	border-radius: 100%;
 	margin: 0 0 2em 0;
-	width: 12em;
-	height: 13em;
+	width: 9em;
+	height: 10em;
 	overflow: hidden;
 	-ms-flex: 1;
 }
